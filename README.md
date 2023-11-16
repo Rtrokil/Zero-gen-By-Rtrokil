@@ -38,6 +38,7 @@
 
 ## ❗ Issues / Doubts ❗
  -if you have any error do not forget to report it in: [issues](https://github.com/Rtrokil/Zero-Gen/issues/new)
+ 
  -or send a friend request to "oldnew." (discord).
 ##
 
