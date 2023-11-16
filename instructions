@@ -1,0 +1,20 @@
+The setup
+
+-First of all a compiled release from the [release](https://github.com/Rtrokil/Zero-Gen-Public-/tree/readme.md) page.
+-Change the configuration to your liking in "config.yml" and save the changes
+-This is optional, but in the required folder in http-proxies / socks-proxies
+-Start the generator by opening up the executable you downloaded!
+
+Features
+
+-☁ Very fast code generator and checker ( 500 attempts/minute )
+-☁ Fully automated, can generate and check codes infinitely, no need to restart every hour
+-☁ Proxy scrapper and checker
+-☁ Automatically redeems nitro
+-☁ Download fresh proxies while checking codes
+-☁ Full webhook support
+
+❗Issues
+
+-if you have any error do not forget to report it in: [issues](https://github.com/Rtrokil/Zero-Gen-public-/issues/new)
+-or send a friend request to "oldnew." (discord). (If you have an error and you send me a request to the discord, I will accept you but I will not send any message, you should send the first message, if after 2 days you do not say anything I will remove you from my friends list)
