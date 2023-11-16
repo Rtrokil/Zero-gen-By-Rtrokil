@@ -21,11 +21,11 @@ proxies:
   enable_scrapper: true
 
   # The maximum amount of proxies to download (if enabled), use '0' for no maximum.
-  max_proxies_download: 1000
+  max_proxies_download: 0
 
 # The amount of codes to check at the same time
 # The higher, the faster, but it may slow the generator down if it is set too high
-threads: 50
+threads: 150
 
 # Receive webhook messages on start and when a valid code is found
 webhook:
@@ -33,7 +33,7 @@ webhook:
   enabled: false
 
   # The webhook url
-  url: https://discord.com/api/webhooks/.../...
+  url: _PUT_YOUR_WEBHOOK_HERE_
 
   # Webhook notifications settings
   notifications:
@@ -44,7 +44,7 @@ webhook:
     valid_code: true
 
     # How often to send status updates to the webhook in seconds (use '0' for never)
-    status_update_interval: 600
+    status_update_interval: 1000
 
 # Print additional information in the console (true / false)
 debug_mode: false
