@@ -5,7 +5,9 @@
 </p>
 
 <h2 align="center">👀 Previews
-  : Nothing for the moment</h2>
+  : Below moment
+
+[![imagen-2023-11-21-104859952.png](https://i.postimg.cc/cLwtJNQd/imagen-2023-11-21-104859952.png)](https://postimg.cc/cv1LD29z)</h2>
 
   ## `🤍Made By: Rtrokil`----------`🖇️Version: Beta V1`----------`🛠Status:` Working----------`⚡Speed:` ( 500 attempts/minute )
  ##
