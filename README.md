@@ -1,15 +1,16 @@
-<h1 align="center">🔥 Zero Gen is an improved version of "ReYang 🔥 generator". And it's free.</h1>
-<h1 align="center"><a href="https://github.com/Tenclea/YANG">The previous repository has been DMCA'd!</a></br>Be aware of scammers!</h1>
+
+## <h1 align="center">🔥 Zero Gen is an improved version of "ReYang 🔥 generator". And it's free.</h1>
+   <h1 align="center"><a href="https://github.com/Tenclea/YANG">The previous repository has been DMCA'd!</a></br>Be aware of scammers!</h1>
  
   If you liked this project, please consider <b>starring</b> it.
 </p>
 
 <h2 align="center">👀 Previews
   : Below 
-
+##
 
 [![imagen-2023-11-21-104859952.png](https://i.postimg.cc/cLwtJNQd/imagen-2023-11-21-104859952.png)](https://postimg.cc/cv1LD29z)</h2>
-
+##
   ## `🤍Made By: Rtrokil`----------`🖇️Version: Beta V1`----------`🛠Status:` Working----------`⚡Speed:` ( 500 attempts/minute )
  ##
  
