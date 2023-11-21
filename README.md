@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">👀 Previews
-  : Below moment
+  : Below 
 
 [![imagen-2023-11-21-104859952.png](https://i.postimg.cc/cLwtJNQd/imagen-2023-11-21-104859952.png)](https://postimg.cc/cv1LD29z)</h2>
 
