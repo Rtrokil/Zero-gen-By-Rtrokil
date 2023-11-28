@@ -1,9 +1,9 @@
 The setup
 
 -First of all a compiled release from the [release](https://github.com/Rtrokil/Zero-Gen-Public-/tree/readme.md) page.
--Change the configuration to your liking in "config.yml" and save the changes
--This is optional, but in the required folder in http-proxies / socks-proxies
--Start the generator by opening up the executable you downloaded!
+-Change the configuration to your liking in "config.yml" and save the changes.
+-This is optional, but if you want, in the required folder ( http-proxies / socks-proxies ) put the proxies that will be created when starting the generator, it is a ".txt" file called "woking proxies".
+-Start the generator by opening up the executable you downloaded! And enjoy.
 
 Features
 
