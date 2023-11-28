@@ -41,7 +41,7 @@
 ## ❗ Issues / Doubts ❗
  -if you have any error do not forget to report it in: [issues](https://github.com/Rtrokil/Zero-Gen-public-/issues/new)
  
- -or send a friend request to "rtrokil." (discord).
+ -or send a friend request to "oldneww" on (discord).
 ##
 
 ## ⚠️ Disclaimer ⚠️
