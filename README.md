@@ -1,7 +1,6 @@
 
-## <h1 align="center">🔥 Zero Gen is an improved version of "?????? 🔥 generator". And it's free.</h1>
-   <h1 align="center"><a href="https://github.com/Tenclea/YANG">The previous repository has been DMCA'd!</a></br>Be aware of scammers!</h1>
- 
+## <h1 align="center">🔥 Zero Gen is an improved version of "?????" 🔥 generator. And it's free.</h1>
+
   If you liked this project, please consider <b>starring</b> it.
 </p>
 
@@ -10,7 +9,7 @@
 
    [![imagen-2023-11-21-104859952.png](https://i.postimg.cc/cLwtJNQd/imagen-2023-11-21-104859952.png)](https://postimg.cc/cv1LD29z)</h2>
 
-  ## `🤍Made By: Rtrokil`----------`🖇️Version: Beta V1`----------`🛠Status:` Working----------`⚡Speed:` ( 500 attempts/minute )
+  ## `🤍Made By: Rtrokil`----------`🖇️Version: Beta V1.5.2`----------`🛠Status:` Working----------`⚡Speed:` ( 500 attempts/minute )
  
 ## 🛠 Setup 🛠
  
@@ -18,24 +17,26 @@
 
  -Edit the config variables in the config.yml file as you like.
  
- -`(Optional)` Paste fresh http(s)/socks proxies into required/http-proxies.txt/required/socks-proxies.txt.
+ -`(Optional)` Paste fresh http(s)/socks proxies into require- (http-proxies.txt/required/socks-proxies.txt).
  
  -`Start the generator by opening up the executable you downloaded`!
+
+ -`And Enjoy the features!🎉-`
 ##
 
 ## 🔥Features 
  
- -☁️ Very fast code generator and checker ( 500 attempts/minute )
+ -☁️ Very fast code generator and checker ( 500-1000 attempts/minute )
  
- -☁️ Fully automated, can generate and check codes infinitely, no need to restart every hour
+ -☁️ Fully automated, can generate and check codes infinitely, never needs to restart.
  
- -☁️ Proxy scrapper and checker
+ -☁️ Proxy scrapper and checker.
  
- -☁️ Automatically redeems nitro
+ -☁️ Automatically redeems nitro. (only if you put your token in the config)
  
- -☁️ Download fresh proxies while checking codes
+ -☁️ Download fresh proxies while checking codes.
  
- -☁️ Full webhook support
+ -☁️ Full webhook support.
 ##
 
 ## ❗ Issues / Doubts ❗
